@@ -1,0 +1,23 @@
+[[main]]
+  identifier = "about"
+  name = "About"
+  url = "page/about"
+  weight = 1
+
+[[main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "post"
+  weight = 2
+  
+  [[main]]
+  identifier = "disclaimer"
+  name = "Disclaimer"
+  url = "/page/disclaimer"
+  weight = 3
+  
+    [[main]]
+  identifier = "privacy policy"
+  name = "Privacy Policy"
+  url = "/page/privacy-policy"
+  weight = 4
